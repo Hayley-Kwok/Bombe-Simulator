@@ -10,3 +10,6 @@ Code for the Bombe that breaks the Enigma-machine-encrypted message. This file h
 
 <h2>Bombe_part2.hs</h2>
 Code for the Bombe that breaks the Enigma-machine-encrypted message. The assumption of the rotors is removed.
+
+<h2>AssignmentHelp.hs</h2>
+Helper functions provided from lecturer
